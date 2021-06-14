@@ -1,0 +1,1 @@
+TicketPassenger [flight=ABCD, boardTime=Time [hours=1, minutes=2, ampm=p.m], gate=3, seat=3, seat2=3, namePassenger=ANTONIA KOLLIA, from=ATHENS, to=USA, d1=Date@6b38897a, idticket=131073, costTicket=990.0]
